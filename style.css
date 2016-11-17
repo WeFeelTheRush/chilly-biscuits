@@ -1,0 +1,28 @@
+footer {
+	background-color: #eeeeec;
+}
+
+h2 {
+
+	font-size: 40px;
+	font-family: 'verdana';
+}
+
+body {
+	background-color: #c5c3d6;
+}
+
+p {
+
+	font-size: 115%;
+	color: #000000;
+}
+
+img {
+	padding: 10px 0px;
+}
+
+#bonanza img {
+
+	padding: 0px;
+}
