@@ -1,11 +1,12 @@
 footer {
+	padding-top: 10px 0px;
 	background-color: #eeeeec;
 }
 
 h2 {
 
 	font-size: 40px;
-	font-family: 'verdana';
+	font-weight: bold;
 }
 
 body {
@@ -22,7 +23,17 @@ img {
 	padding: 10px 0px;
 }
 
-#bonanza img {
 
-	padding: 0px;
+h3 {
+
+	font-size: 25px;
+	font-family: 'verdana';
+	padding: 10px 0px;
+
+}
+
+h4 {
+
+	font-size: 25px;
+	font-family: 'verdana'
 }
